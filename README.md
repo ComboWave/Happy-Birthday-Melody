@@ -1,7 +1,7 @@
 # Happy-Birthday-Melody
 TL:DR - Using Arduino Uno a speaker and bunch of leds &amp; jumper wires you can create a nice birthday gift.
 
-June 12 2020, Roy Ben Avraham
+June 12 2020, RBA
 
 System layout:
 
